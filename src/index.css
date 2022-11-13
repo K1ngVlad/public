@@ -1,0 +1,90 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #f3f6f5;
+}
+
+@font-face {
+  font-family: 'SF-pro-black';
+  src: url('./fonts/SF/SFProDisplay-Black.woff');
+}
+
+@font-face {
+  font-family: 'SF-pro-black-italic';
+  src: url('./fonts/SF/SFProDisplay-BlackItalic.woff');
+}
+
+@font-face {
+  font-family: 'SF-pro-bold';
+  src: url('./fonts/SF/SFProDisplay-Bold.woff');
+}
+
+@font-face {
+  font-family: 'SF-pro-bold-italic';
+  src: url('./fonts/SF/SFProDisplay-BoldItalic.woff');
+}
+
+@font-face {
+  font-family: 'SF-pro-heavy';
+  src: url('./fonts/SF/SFProDisplay-Heavy.woff');
+}
+
+@font-face {
+  font-family: 'SF-pro-light';
+  src: url('./fonts/SF/SFProDisplay-Light.woff');
+}
+
+@font-face {
+  font-family: 'SF-pro-light-italic';
+  src: url('./fonts/SF/SFProDisplay-LightItalic.woff');
+}
+
+@font-face {
+  font-family: 'SF-pro-medium';
+  src: url('./fonts/SF/SFProDisplay-Medium.woff');
+}
+
+@font-face {
+  font-family: 'SF-pro-medium-italic';
+  src: url('./fonts/SF/SFProDisplay-MediumItalic.woff');
+}
+
+@font-face {
+  font-family: 'SF-pro-regular';
+  src: url('./fonts/SF/SFProDisplay-Regular.woff');
+}
+
+@font-face {
+  font-family: 'SF-pro-regular-italic';
+  src: url('./fonts/SF/SFProDisplay-RegularItalic.woff');
+}
+
+@font-face {
+  font-family: 'SF-pro-semibold';
+  src: url('./fonts/SF/SFProDisplay-Semibold.woff');
+}
+
+@font-face {
+  font-family: 'SF-pro-semibold-italic';
+  src: url('./fonts/SF/SFProDisplay-SemiboldItalic.woff');
+}
+
+@font-face {
+  font-family: 'SF-pro-thin';
+  src: url('./fonts/SF/SFProDisplay-Thin.woff');
+}
+
+@font-face {
+  font-family: 'SF-pro-thin-italic';
+  src: url('./fonts/SF/SFProDisplay-ThinItalic.woff');
+}
+
+@font-face {
+  font-family: 'SF-pro-ultralight';
+  src: url('./fonts/SF/SFProDisplay-Ultralight.woff');
+}
+
+@font-face {
+  font-family: 'SF-pro-ultralight-italic';
+  src: url('./fonts/SF/SFProDisplay-UltralightItalic.woff');
+}

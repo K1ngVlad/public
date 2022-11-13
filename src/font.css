@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'SF Pro Display';
+  src: local('SFPRODISPLAYREGULAR.OTF'),
+    url('./fonts/sf-pro-display-cufonfonts/SFPRODISPLAYMEDIUM.OTF')
+      format('otf');
+}

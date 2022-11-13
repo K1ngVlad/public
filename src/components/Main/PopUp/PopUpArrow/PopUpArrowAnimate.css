@@ -1,0 +1,198 @@
+@keyframes circleBack {
+  from {
+    width: 6px;
+    height: 6px;
+    background: rgba(23, 76, 56, 0.2);
+  }
+  to {
+    width: 3px;
+    height: 3px;
+    background: rgba(23, 76, 56, 0);
+  }
+}
+
+@keyframes circleRightTop {
+  from {
+    width: 3px;
+    height: 3px;
+    background: rgba(23, 76, 56, 0);
+    left: 153px;
+  }
+  to {
+    width: 6px;
+    height: 6px;
+    background: rgba(23, 76, 56, 0.2);
+    left: 153px;
+  }
+}
+
+@keyframes circleLeftTop {
+  from {
+    width: 3px;
+    height: 3px;
+    background: rgba(23, 76, 56, 0);
+    left: 47px;
+  }
+  to {
+    width: 6px;
+    height: 6px;
+    background: rgba(23, 76, 56, 0.2);
+    left: 47px;
+  }
+}
+
+@keyframes smallCircleMoveRight {
+  from {
+    width: 6px;
+    height: 6px;
+    background: rgba(23, 76, 56, 0.2);
+    left: 47px;
+  }
+  to {
+    width: 9px;
+    height: 9px;
+    background: rgba(23, 76, 56, 0.5);
+    left: 70px;
+  }
+}
+
+@keyframes circleLeftMoveRight {
+  from {
+    width: 9px;
+    height: 9px;
+    background: rgba(23, 76, 56, 0.5);
+    left: 70px;
+  }
+  to {
+    width: 13px;
+    height: 13px;
+    background: rgba(23, 76, 56, 1);
+    left: 96px;
+  }
+}
+
+@keyframes circleRightMoveRight {
+  from {
+    width: 9px;
+    height: 9px;
+    background: rgba(23, 76, 56, 0.5);
+    left: 126px;
+  }
+  to {
+    width: 13px;
+    height: 13px;
+    background: rgba(23, 76, 56, 0.5);
+    left: 153px;
+  }
+}
+
+@keyframes bigCircleMoveRight {
+  from {
+    width: 13px;
+    height: 13px;
+    background: rgba(23, 76, 56, 1);
+    left: 96px;
+  }
+  to {
+    width: 9px;
+    height: 9px;
+    background: rgba(23, 76, 56, 0.5);
+    left: 126px;
+  }
+}
+
+/* @keyframes circleLeftMoveRight {
+  from {
+    width: 9px;
+    height: 9px;
+    background: rgba(23, 76, 56, 0.5);
+    left: 126px;
+  }
+  to {
+    width: 6px;
+    height: 6px;
+    background: rgba(23, 76, 56, 0.2);
+    left: 153px;
+  }
+} */
+
+@keyframes circleRightMoveRight {
+  from {
+    width: 9px;
+    height: 9px;
+    background: rgba(23, 76, 56, 0.5);
+    left: 126px;
+  }
+  to {
+    width: 6px;
+    height: 6px;
+    background: rgba(23, 76, 56, 0.2);
+    left: 153px;
+  }
+}
+
+@keyframes smallCircleMoveLeft {
+  from {
+    width: 6px;
+    height: 6px;
+    background: rgba(23, 76, 56, 0.2);
+    left: 153px;
+  }
+  to {
+    width: 9px;
+    height: 9px;
+    background: rgba(23, 76, 56, 0.5);
+    left: 126px;
+  }
+}
+
+@keyframes circleLeftMoveLeft {
+  from {
+    width: 9px;
+    height: 9px;
+    background: rgba(23, 76, 56, 0.5);
+    left: 70px;
+  }
+  to {
+    width: 6px;
+    height: 6px;
+    background: rgba(23, 76, 56, 0.2);
+    left: 47px;
+  }
+}
+
+@keyframes circleRightMoveLeft {
+  from {
+    width: 9px;
+    height: 9px;
+    background: rgba(23, 76, 56, 0.5);
+    left: 126px;
+  }
+  to {
+    width: 13px;
+    height: 13px;
+    background: rgba(23, 76, 56, 1);
+    left: 96px;
+  }
+}
+
+@keyframes bigCircleMoveLeft {
+  from {
+    width: 13px;
+    height: 13px;
+    background: rgba(23, 76, 56, 1);
+    left: 96px;
+  }
+  to {
+    width: 9px;
+    height: 9px;
+    background: rgba(23, 76, 56, 0.5);
+    left: 70px;
+  }
+}
+
+/* 
+#ArrowLeft {
+  transition: '2s';
+  background-color: white;
+} */
